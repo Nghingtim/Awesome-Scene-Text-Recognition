@@ -38,6 +38,7 @@ A curated list of resources dedicated to scene text localization and recognition
 ### Others
 - [2018-AAAI] SEE: Towards Semi-Supervised End-to-End Scene Text Recognition [`paper`](http://arxiv.org/abs/1712.05404)
 [`code`](https://github.com/Bartzi/see)
+- [2018-AAAI] Char-Net: A Character-Aware Neural Network for Distorted Scene Text Recognition [`paper`](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)
 - [2017-ICCV] Deep TextSpotter: An End-to-End Trainable Scene Text Localization and
 Recognition Framework [`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf)
 [`code`](https://github.com/MichalBusta/DeepTextSpotter)
